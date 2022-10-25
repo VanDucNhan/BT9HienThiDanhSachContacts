@@ -13,7 +13,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="32dp"
         android:layout_marginEnd="32dp"
-        android:text="ĐIỆN THOẠI DI ĐỘNG"
+        android:text="DANH BẠ ĐIỆN THOẠI"
         android:textAlignment="center"
         android:textColor="@color/purple_700"
         android:textSize="30sp"
